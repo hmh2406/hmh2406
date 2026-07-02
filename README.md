@@ -1,14 +1,10 @@
-from pathlib import Path
+<div align="center">
 
-md = r'''<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:3b82f6&text=HOANG%20MINH%20HA&fontColor=ffffff&fontSize=48&fontAlignY=40"/>
 
-# 👋 Hoàng Minh Hà
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Web+Developer;Digital+Marketer;Cyber+Security+Enthusiast;Always+Learning"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=HOANG%20MINH%20HA&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Web+Developer;Digital+Marketer;Cyber+Security+Enthusiast;Always+Learning"/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hmh.id.vn-2C5364?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://hmh.id.vn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hmh.id.vn-2563EB?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://hmh.id.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mh2429)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mh24_6)
 [![GitHub](https://img.shields.io/badge/GitHub-hoangminhha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangminhha)
@@ -17,48 +13,43 @@ md = r'''<div align="center">
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-Hi, I'm **Hoàng Minh Hà** from **Nghệ An, Vietnam**.
+```text
+Name      : Hoàng Minh Hà
+Location  : Nghệ An, Việt Nam
+Focus     : Web Development • Digital Marketing • Cyber Security
+Website   : https://hmh.id.vn
+```
 
-- 🌐 Web Development
-- 📈 Digital Marketing
-- 🔐 Cyber Security
-- 🛒 WordPress & WooCommerce
-- 🚀 Continuous Learning
+> Passionate about building modern websites, creating digital marketing strategies, and exploring cybersecurity.
 
----
+## 🚀 Tech Stack
 
-# 🛠 Tech Stack
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java"/>
+</p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,wordpress,git,github,vscode,figma"/>
+### Frameworks & CMS
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
 
-# 🚀 Services
+# 💼 Featured Projects
 
-- Website Development
-- WordPress
-- Facebook Ads
-- Google Ads
-- SEO
-- Cyber Security
-- Technical Consulting
-
----
-
-# ⭐ Featured Projects
-
-## 📚 EduVision Lib
-Digital library management platform.
-
-## 👨‍🎓 Student Monitoring System
-Attendance & monitoring solution.
-
-## 📈 Facebook Ads Campaign
-Planning, A/B Testing and optimization.
+| Project | Description |
+|---------|-------------|
+| 📚 EduVision Lib | Digital library management platform |
+| 👨‍🎓 Student Monitoring | Attendance & monitoring solution |
+| 📈 Marketing Campaign | Facebook & Google Ads optimization |
 
 ---
 
@@ -78,8 +69,17 @@ Planning, A/B Testing and optimization.
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hoangminhha&theme=flat&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hoangminhha&theme=algolia&no-frame=true&margin-w=8"/>
 </p>
+
+---
+
+# 🎯 Current Goals
+
+- Build impactful web applications
+- Learn AI & Cyber Security
+- Contribute to open source
+- Improve UI/UX skills
 
 ---
 
@@ -87,7 +87,7 @@ Planning, A/B Testing and optimization.
 
 - 🌐 https://hmh.id.vn
 - 📧 contact@hmh.id.vn
-- 💬 Discord: mh24_6
+- 💬 Discord: **mh24_6**
 
 ---
 
@@ -95,10 +95,6 @@ Planning, A/B Testing and optimization.
 
 ![](https://komarev.com/ghpvc/?username=hoangminhha&style=for-the-badge)
 
-*"Success is the sum of small efforts, repeated day in and day out."*
+### ⭐ Thanks for visiting my profile!
 
 </div>
-'''
-path="/mnt/data/README.md"
-Path(path).write_text(md,encoding="utf-8")
-print(path)
