@@ -9,32 +9,23 @@
 <a href="https://discord.com/users/mh24_6"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:contact@hmh.id.vn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/hoangminhha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/📍_Location-Ngh%E1%BB%87%20An%2C%20Vi%E1%BB%87t%20Nam-2a5298?style=flat-square&labelColor=1e3c72" />
 <img src="https://img.shields.io/badge/💼_Experience-3%2B%20n%C4%83m-2a5298?style=flat-square&labelColor=1e3c72" />
-<img src="https://img.shields.io/badge/🚀_Projects-30%2B-2a5298?style=flat-square&labelColor=1e3c72" />
+<img src="https://img.shields.io/badge/🚀_Projects-302B-2a5298?style=flat-square&labelColor=1e3c72" />
 <img src="https://img.shields.io/badge/✅_Status-Available%20for%20work-2a5298?style=flat-square&labelColor=1e3c72" />
 
 </div>
 
 <br>
-
 ## 👋 Giới thiệu
-
 Mình là **Hoàng Minh Hà**, kỹ sư phát triển web và chuyên gia digital marketing với hơn 3 năm kinh nghiệm triển khai các giải pháp công nghệ thực tế. Mình làm việc từ cái tâm, đặt uy tín lên hàng đầu, và tin rằng mỗi ngày học được một điều mới luôn giá trị hơn một ngày đứng yên.
-
 **Lĩnh vực hoạt động:** Phát triển Web · Digital Marketing (Facebook Ads, Google Ads) · Bảo mật hệ thống · Linh kiện điện tử
-
 <br>
-
 ## 🧰 Kỹ năng & Công nghệ
-
 <table>
 <tr>
 <td valign="top" width="33%">
-
 **Ngôn ngữ lập trình**
 <br>
 <img src="https://skillicons.dev/icons?i=js,py,java,cpp" />
@@ -68,9 +59,7 @@ Mình là **Hoàng Minh Hà**, kỹ sư phát triển web và chuyên gia digita
 <img src="https://img.shields.io/badge/System_Security-1e3c72?style=flat-square&logo=shieldsdotio&logoColor=white" />
 
 <br>
-
 **Mức độ thành thạo**
-
 | | |
 |---|---|
 | Facebook Ads | ![90%](https://progress-bar.xyz/90?width=220&color=2a5298&title=) |
@@ -79,11 +68,8 @@ Mình là **Hoàng Minh Hà**, kỹ sư phát triển web và chuyên gia digita
 | Bảo mật hệ thống | ![78%](https://progress-bar.xyz/78?width=220&color=2a5298&title=) |
 | Google Ads | ![75%](https://progress-bar.xyz/75?width=220&color=2a5298&title=) |
 | JavaScript | ![72%](https://progress-bar.xyz/72?width=220&color=2a5298&title=) |
-
 <br>
-
 ## 🎯 Dịch vụ chuyên môn
-
 | Dịch vụ | Mô tả |
 |---|---|
 | **Chạy Quảng Cáo** | Facebook Ads, Google Ads — tối ưu ngân sách, tăng tỷ lệ chuyển đổi |
@@ -94,21 +80,15 @@ Mình là **Hoàng Minh Hà**, kỹ sư phát triển web và chuyên gia digita
 | **Hỗ Trợ Kỹ Thuật** | Sửa chữa, bảo trì máy tính, cài đặt & tối ưu hệ thống |
 
 <br>
-
 ## 💼 Dự án nổi bật
-
 <table>
 <tr>
 <td width="33%" valign="top">
-
 **EduVision Lib**
 Thư viện trường học số — nền tảng quản lý thư viện, tra cứu sách, mượn trả tự động.
-
 `HTML/CSS` `JavaScript` `Web App`
-
 </td>
 <td width="33%" valign="top">
-
 **Phần Mềm Giám Sát Học Sinh**
 Hỗ trợ nhà trường và phụ huynh theo dõi chuyên cần theo thời gian thực.
 
@@ -129,7 +109,6 @@ Lên kế hoạch & thực thi quảng cáo, A/B testing giúp giảm CPL đáng
 <br>
 
 ## 🗓️ Quá trình phát triển
-
 ```
 2022  │  Học & thực chiến Digital Marketing, Facebook Ads
 2023  │  Điều hành website doanh nghiệp tại Nghệ An, tối ưu SEO
@@ -137,24 +116,14 @@ Lên kế hoạch & thực thi quảng cáo, A/B testing giúp giảm CPL đáng
 2025  │  Thành lập dự án EduVision Lib & Phần mềm giám sát học sinh
 2026  │  Mở rộng sang bảo mật hệ thống, an ninh mạng, AI
 ```
-
 <br>
-
 ## 📊 GitHub Stats
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=hoangminhha&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhha&layout=compact&hide_border=true" height="165" />
-
 </div>
-
 <br>
-
 <div align="center">
-
 **Kết nối với mình:** [Portfolio](https://hmh.id.vn/) · [Facebook](https://www.facebook.com/mh2429) · [Discord](https://discord.com/users/mh24_6)
-
-<sub>Cảm ơn bạn đã ghé thăm profile của mình 🙏</sub>
-
+<sub>Cảm ơn bạn đã ghé thăm profile của mình!</sub>
 </div>
