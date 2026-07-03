@@ -86,7 +86,7 @@ Website   : https://hmh.id.vn
 # 📫 Contact
 
 - 🌐 https://hmh.id.vn
-- 📧 contact@hmh.id.vn
+- 📧 **mh24.eduvision@gmail.com**
 - 💬 Discord: **mh24_6**
 
 ---
