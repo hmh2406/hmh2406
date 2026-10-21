@@ -7,11 +7,8 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hmh.id.vn-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hmh.id.vn)
-[![Facebook](https://img.shields.io/badge/Facebook-mh2429-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mh2429)
 [![Discord](https://img.shields.io/badge/Discord-mh24__6-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mh24_6)
 [![GitHub](https://img.shields.io/badge/GitHub-hmh2406-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmh2406)
-
-<img src="https://komarev.com/ghpvc/?username=hmh2406&style=for-the-badge&color=3b82f6&label=PROFILE%20VIEWS" alt="profile views"/>
 
 </div>
 
@@ -70,6 +67,46 @@ Nếu bạn đang tìm **Hoàng Minh Hà - Nghệ An**, đây là trang cá nhâ
 
 <br/>
 
+<div align="center">
+
+### 👥 Đội ngũ sáng lập
+
+**Trí tuệ, khát vọng và sự kết hợp hoàn hảo**
+
+<sub>Đằng sau sự mượt mà và thông minh của các sản phẩm là tâm huyết của những nhà sáng lập tài năng.</sub>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="240">
+<br/>
+<b>Hoàng Minh Hà</b><br/>
+<sub>Đồng sáng lập</sub><br/>
+<sub>📍 Nghệ An</sub>
+<br/><br/>
+</td>
+<td align="center" width="240">
+<br/>
+<b>Phan Văn Hưng</b><br/>
+<sub>Đồng sáng lập</sub><br/>
+<sub>📍 Quảng Trị</sub>
+<br/><br/>
+</td>
+<td align="center" width="240">
+<br/>
+<b>Phan Đức Trí</b><br/>
+<sub>Đồng sáng lập</sub><br/>
+<sub>📍 Huế</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 ## 🏆 Điểm nổi bật
 
 <div align="center">
@@ -81,7 +118,7 @@ Nếu bạn đang tìm **Hoàng Minh Hà - Nghệ An**, đây là trang cá nhâ
 | 👨‍🎓 | Xây dựng hệ thống **Student Monitoring**: điểm danh & giám sát học sinh |
 | 📈 | Tối ưu chiến dịch **Facebook Ads & Google Ads** cho khách hàng thực tế |
 | 🔐 | Tự học & thực hành chuyên sâu về **An ninh mạng** |
-| 🇻🇳 | Đại diện thế hệ developer trẻ đến từ **Nghệ An, Việt Nam** |
+| 🌟 | Đại diện thế hệ developer trẻ đến từ **Nghệ An, Việt Nam** |
 
 </div>
 
@@ -142,11 +179,16 @@ Cyber Security     ████████████░░░░░░░░ 
 
 <div align="center">
 
-| Dự án | Mô tả |
-|:---|:---|
-| 📚 **EduVision Lib** | Nền tảng quản lý thư viện số |
-| 👨‍🎓 **Student Monitoring** | Giải pháp điểm danh & giám sát học sinh |
-| 📈 **Marketing Campaign** | Tối ưu quảng cáo Facebook & Google Ads |
+| # | Dự án | Mô tả | Đội ngũ | Trạng thái |
+|:---:|:---|:---|:---|:---:|
+| 01 | 📚 **[EduVision Lib](https://hmh.id.vn)** | Hệ thống thư viện số, quản lý sách và trải nghiệm học tập tốt hơn | Hoàng Minh Hà, Nguyễn Đức Duy, Nguyễn Bá Đạt | 🟢 Đang nâng cấp & phát triển |
+| 02 | 🖥️ **[Ứng dụng thư viện thông minh](https://hmh.id.vn)** | Ứng dụng desktop hỗ trợ tra cứu và quản lý thư viện | Hoàng Minh Hà | 🟡 Đã hoàn thiện |
+| 03 | 🤖 **[LingoX](https://hmh.id.vn)** | Nền tảng học tiếng Anh tích hợp AI, hỗ trợ học sinh học tập và giải quyết bài tập hiệu quả hơn | Hoàng Minh Hà, Phan Văn Hưng, Phan Đức Trí, Trần Hồng Hà | 🟢 Đang nâng cấp & phát triển |
+| 04 | 💻 **[Nền tảng OJ chấm code: chuyentinvn.net](https://chuyentinvn.net)** | Nền tảng luyện thi và chấm bài lập trình trực tuyến, giúp học sinh rèn luyện thuật toán và code hiệu quả | Hoàng Minh Hà, Phan Văn Hưng, Phan Đức Trí | 🟢 Đang nâng cấp & phát triển |
+
+<br/>
+
+[![Xem tất cả dự án](https://img.shields.io/badge/Xem%20t%E1%BA%A5t%20c%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n%20t%E1%BA%A1i-hmh.id.vn-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hmh.id.vn)
 
 </div>
 
@@ -190,7 +232,7 @@ Cyber Security     ████████████░░░░░░░░ 
 
 <div align="center">
 
-🇻🇳 Tiếng Việt (Bản ngữ) &nbsp;•&nbsp; 🇬🇧 English (Trung cấp)
+<img src="https://flagcdn.com/24x18/vn.png" alt="Việt Nam" height="16"/> Tiếng Việt (Bản ngữ) &nbsp;•&nbsp; <img src="https://flagcdn.com/24x18/gb.png" alt="United Kingdom" height="16"/> English (Trung cấp)
 
 </div>
 
